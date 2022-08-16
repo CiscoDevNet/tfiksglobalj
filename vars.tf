@@ -1,6 +1,6 @@
 variable "instrapp" {
   type = string
 }
-variable "privtekey" {
+variable "privatekey" {
   type = string
 }
