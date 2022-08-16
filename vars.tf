@@ -4,3 +4,6 @@ variable "instrapp" {
 variable "privatekey" {
   type = string
 }
+variable "appport" {
+  type = string
+}
